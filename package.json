@@ -1,0 +1,24 @@
+{
+  "name": "nginx-stub-log",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdw1p/NGINX-Stub-Log.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdw1p/NGINX-Stub-Log/issues"
+  },
+  "homepage": "https://github.com/cdw1p/NGINX-Stub-Log#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "colors": "^1.4.0",
+    "moment": "^2.29.2"
+  }
+}
